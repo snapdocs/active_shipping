@@ -1,5 +1,8 @@
 # ActiveShipping CHANGELOG
 
+### v2.2.1
+- Allow activesupport <7.1
+
 ### v2.2.0
 - Remove UPS integration from ActiveShipping repository as requested by UPS. For information about the UPS APIs see https://www.ups.com/upsdeveloperkit
 
