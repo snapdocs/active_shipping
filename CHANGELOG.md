@@ -1,5 +1,8 @@
 # ActiveShipping CHANGELOG
 
+### v2.2.2
+- Allow activesupport <7.2
+
 ### v2.2.1
 - Allow activesupport <7.1
 
